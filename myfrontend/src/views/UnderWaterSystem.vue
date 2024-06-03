@@ -150,7 +150,8 @@
           <dv-decoration-7 style="height:30px; color: white;">运行时间：{{ runtime }}</dv-decoration-7> <!-- Removed width -->
           <dv-decoration-7 style="height:30px; color: white;">下次检修：{{ nextMaintenance }}</dv-decoration-7> <!-- Removed width -->
           <dv-decoration-7 style="height:30px; color: white;">保修过期：{{ warrantyExpired }}</dv-decoration-7> <!-- Removed width -->
-        </div>
+          <dv-decoration-7 style="height:30px; color: white;">保修过期：{{ warrantyExpired }}</dv-decoration-7> <!-- Removed width -->
+		</div>
       </div>
     </div>
   </div>
