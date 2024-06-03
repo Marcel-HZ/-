@@ -17,6 +17,7 @@ def main():
     execute_from_command_line(sys.argv)
 
 # manage.py
+# this is a good one
 
 if __name__ == '__main__':
     main()
